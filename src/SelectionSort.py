@@ -5,7 +5,6 @@ def SelectionSort(Input_list,List_size):
             if Input_list[j] < Input_list[min_index]:
                 min_index = j
         Input_list[i], Input_list [min_index] = Input_list[min_index], Input_list[i]
-    return Input_list
 
 if __name__ =="main":
     print("Selection Sort")

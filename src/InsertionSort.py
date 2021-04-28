@@ -6,7 +6,6 @@ def InsertionSort(Input_list,List_size):
             Input_list[j+1] = Input_list[j]
             j-=1
         Input_list[j+1] = key
-    return Input_list
 
 if __name__ =="main":
     print("Insertion Sort")
