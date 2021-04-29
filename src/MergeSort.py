@@ -40,4 +40,4 @@ def MergeSort(arr,l,r):
         MergeSort(arr, m+1, r)
         merge(arr, l, m, r)
 if __name__ == "main":
-    print("------Merge Sort------")
+    print("-------Merge Sort-------")

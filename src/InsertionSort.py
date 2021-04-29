@@ -8,4 +8,4 @@ def InsertionSort(Input_list,List_size):
         Input_list[j+1] = key
 
 if __name__ =="main":
-    print("------Insertion Sort------")
+    print("-------Insertion Sort-------")

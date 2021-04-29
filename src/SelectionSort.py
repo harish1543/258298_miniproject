@@ -7,4 +7,4 @@ def SelectionSort(Input_list,List_size):
         Input_list[i], Input_list [min_index] = Input_list[min_index], Input_list[i]
 
 if __name__ =="main":
-    print("------Selection Sort------")
+    print("-------Selection Sort-------")
