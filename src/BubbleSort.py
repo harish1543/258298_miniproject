@@ -4,4 +4,4 @@ def BubbleSort(Input_list,List_size):
             if Input_list[j]>Input_list[j+1]:
                 Input_list[j], Input_list[j+1] = Input_list[j+1], Input_list[j]
 if __name__ == "main":
-    print("Bubble sort")
+    print("------Bubble sort------")

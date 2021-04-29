@@ -40,7 +40,4 @@ def MergeSort(arr,l,r):
         MergeSort(arr, m+1, r)
         merge(arr, l, m, r)
 if __name__ == "main":
-    size = int(input("Enter size:"))
-    Input_list = [int(element) for element in input("Eter array Elements").split()]
-    MergeSort(Input_list,0,size-1)
-    print(Input_list)
+    print("------Merge Sort------")
