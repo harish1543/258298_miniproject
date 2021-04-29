@@ -23,7 +23,7 @@ while(True):
     print("Sorted array is:",end= " ")
     for element in Array:
         print(element,end= " ")
-    print("\n 1. Start Again\n 2. Exit")
+    print("\n 1. Perform Another Sorting\n 2. Exit")
     secondchoice = int(input("Enter Choice: "))
     if secondchoice == 2:
         print("Exiting...")
