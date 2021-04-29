@@ -1,7 +1,7 @@
-from BubbleSort import BubbleSort
-from SelectionSort import SelectionSort
-from InsertionSort import InsertionSort
-from MergeSort import MergeSort
+from src.BubbleSort import BubbleSort
+from src.SelectionSort import SelectionSort
+from src.InsertionSort import InsertionSort
+from src.MergeSort import MergeSort
 
 
 while(True):
